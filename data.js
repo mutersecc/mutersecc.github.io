@@ -1,6 +1,6 @@
 window.PORTFOLIO_DATA = {
   maintenance: {
-    enabled: false, // Bakım modunu açmak için true, kapatmak için false yapın
+    enabled: true, // Bakım modunu açmak için true, kapatmak için false yapın
     previewHash: "8b5ac1c77ed3b2f7c69aef18cd21c675e216bd044cd454afc20e4bb7a5ba8a62"
   },
   links: {
